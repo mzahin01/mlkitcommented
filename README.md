@@ -1,17 +1,12 @@
-# google\_ml\_kit example app
+# google_ml_kit Example App
 
-Demonstrates how to use the google_mlkit plugins.
-
-This example app is not production code, its purpose is to demonstrate some of the functionality of all the plugins found [here](https://github.com/flutter-ml/google_ml_kit_flutter/tree/master). If you find any issue with it fell free to contribute. Pull request are always welcome.
+This app demonstrates the functionality of the google_ml_kit plugins found [here](https://github.com/flutter-ml/google_ml_kit_flutter/tree/master). This is not production code, but contributions are welcome.
 
 ## Getting Started with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+New to Flutter? Here are some helpful resources:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# mlkitcommented
+For more information, see the [online documentation](https://flutter.dev/docs), which includes tutorials, samples, mobile development guidance, and a complete API reference.
